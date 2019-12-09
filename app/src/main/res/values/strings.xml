@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">AlexAdriano-examen</string>
+    <string name="app_usuario">Usuario</string>
+    <string name="app_contrasena">Contraseña</string>
+    <string name="app_nombreapellido">Nombre y Apellido</string>
+    <string name="app_montoinicial">Monto inicial</string>
+    <string name="app_montocuotas">Pago mensual</string>
+    <string name="btnIngrear">Ingresar</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="app_usuarioConectado">Usuario Conectado</string>
+    <string name="app_centroeducativo">¿Por qué eligió este centro educativo?</string>
+    <string name="app_deporte">¿Qué deportes practica?</string>
+    <string name="app_Futbol">Futbol</string>
+    <string name="app_Tesis">Tesis</string>
+    <string name="app_Ciclismo">Ciclismo</string>
+    <string name="app_idioma">Está interesado en aprender otro idioma aparte de inglés</string>
+    <string name="app_Si">Si</string>
+    <string name="app_No">No</string>
+
 </resources>
